@@ -11,7 +11,7 @@ public class MyFirstPingPongSurfaceView  extends SurfaceView implements SurfaceH
     // Initial values
 
     // The thread
-    private PingPongThread pingPongTread = null;
+    private PingPongThread pingPongTread = null; // falt
     // The ball
     private int x; private int y;
     // The speed and other attributes
